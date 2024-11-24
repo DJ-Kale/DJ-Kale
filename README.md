@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DJ-Kale aka Kyle
+- 👋 Hi, I’m @DJ-Kale aka Kale
 - 👀 I’m interested in becoming more efficient with Programming and adopting new languages to eventually start a career in Programming
 - 🌱 I’m currently learning Python. Actively dabbling in whatever else seems interesting.
 - 💞️ I’m looking to collaborate on anything I guess, but my skills might not be too useful until I learn a bit more!
